@@ -1,2 +1,4 @@
-# images
-作った画像とかを置いておく場所
+## Go Gopher Credit
+
+The Go gopher was designed by [Renée French](https://reneefrench.blogspot.com/)
+
