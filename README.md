@@ -3,9 +3,9 @@
 A collection of images used across my projects.
 All files are served via [jsDelivr](https://www.jsdelivr.com/) CDN.
 
-## Profile
+## Example
 
-![profile](https://cdn.jsdelivr.net/gh/masakurapa/images@master/assets/profile.png)
+Profile image: `https://cdn.jsdelivr.net/gh/masakurapa/images@master/assets/profile.png`
 
 # Credit
 
