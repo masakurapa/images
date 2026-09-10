@@ -5,7 +5,7 @@ All files are served via [jsDelivr](https://www.jsdelivr.com/) CDN.
 
 ## Example
 
-Profile image: `https://cdn.jsdelivr.net/gh/masakurapa/images@master/assets/profile.png`
+Profile image: `https://cdn.jsdelivr.net/gh/masakurapa/images@main/assets/profile.png`
 
 # Credit
 
